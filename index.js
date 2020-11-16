@@ -16,8 +16,7 @@ var hello = function() {
 //8)
 console.log(hello());
 
-//9)
-var x = 'Hi!'
+
 
 
 
